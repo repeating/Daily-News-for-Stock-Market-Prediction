@@ -1,1 +1,1 @@
-# Daily-News-for-Stock-Market-Prediction
+# Stock-Market-Prediction
