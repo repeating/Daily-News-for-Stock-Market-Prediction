@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# Emotion dataset for NLP
 
 ## How to intsall
 
